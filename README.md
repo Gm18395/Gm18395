@@ -2,12 +2,12 @@
 # <Gabriella Mann>
 Hello, GitHub! 👋
 
-I'm <Gabriella Mann>, a student at Brigham Young University-Idaho interested in bioinformatics, biology, computer science. Welcome to my GitHub profile!
+I'm <Gabriella Mann>, a student at Brigham Young University-Idaho interested in bioinformatics, biology, and computer science. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ... Become a bioinformatics scientist or a computational biologist. 
+- I'm currently learning ... professional skills, beginner programming, biology, psychology, and some marketing.
+- My goals are to ... become a bioinformatics scientist or a computational biologist.
 - Ask me about ...
 
 ## Technologies and Tools
