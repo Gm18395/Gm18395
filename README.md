@@ -3,7 +3,7 @@
 
 Hello, GitHub! 👋
 
-I'm <Gabriella Mann>, a student at Brigham Young University-Idaho interested in <bioinformatics, biology, computer science>. Welcome to my GitHub profile!
+I'm <Gabriella Mann>, a student at Brigham Young University-Idaho interested in bioinformatics, biology, computer science. Welcome to my GitHub profile!
 
 ## About Me
 
